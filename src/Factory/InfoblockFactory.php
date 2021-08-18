@@ -1,6 +1,6 @@
 <?php
 
-namespace Factory;
+namespace Letsrock\Factory;
 use Letsrock\CreatableModel\CreatableModel;
 use Letsrock\Factory\ModelFactoryInterface;
 use Faker\Factory as FakerFactory;
